@@ -11,7 +11,7 @@ namespace Proof.Database.BulkInsertion.Services
     public class AuditLogService : IAuditLogService
     {
         private readonly ProofContext _proofContext;
-        private readonly int maxInsertionCount = 1000000;
+        private readonly int maxInsertionCount = 10000;
 
         public AuditLogService(ProofContext proofContext)
         {

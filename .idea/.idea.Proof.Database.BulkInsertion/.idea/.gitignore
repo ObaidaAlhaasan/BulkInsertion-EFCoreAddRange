@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.Proof.Database.BulkInsertion.iml
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../:\Learning\Proof.Database.BulkInsertion\.idea\.idea.Proof.Database.BulkInsertion\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
